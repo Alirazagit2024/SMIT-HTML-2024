@@ -1,0 +1,14 @@
+body {
+  background-image: url(Images/pic1.jfif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60% 100%;
+  color: aliceblue;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+}
